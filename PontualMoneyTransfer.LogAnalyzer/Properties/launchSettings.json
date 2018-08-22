@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PontualMoneyTransfer.LogAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": " c:\\temp\\"
+    }
+  }
+}
